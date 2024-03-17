@@ -1,0 +1,14 @@
+/* make body tag background color */
+body {
+	font-family: Pretendard;
+	color: rgb(15, 15, 51);
+	background-color: rgb(252, 248, 236);
+}
+
+.text-title {
+	font-size: 60px;
+}
+
+.azeret-mono {
+	font-family: 'Azeret Mono', monospace;
+}
